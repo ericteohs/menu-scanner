@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Menu Calorie",
+    "short_name": "Menu Calorie",
+    "description": "A simple application that uses your camera to scan menu and fetch calorie from LLM",
+    "start_url": "/",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/icon512.jpg",
+            "sizes": "512x512"
+        }
+    ]
+}
